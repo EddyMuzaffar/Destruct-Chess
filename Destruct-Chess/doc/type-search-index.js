@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"com.company","l":"Joueur"},{"p":"com.company","l":"Main"},{"p":"com.company","l":"RegleDuJeu"},{"p":"com.company","l":"Score"}];updateSearchResults();
